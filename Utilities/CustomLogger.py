@@ -1,0 +1,11 @@
+import logging
+class LogGen:
+    @staticmethod
+    def loggen():
+        logging.basicConfig(filename="/home/ticvictech/PycharmProjects/IBS/Logs/testlog.csv", format='%(asctime)s:%(levelname)s:%(message)s', datefmt='%m/%d/%y %I:%M:%S %P')
+        logger = logging.getLogger()
+        logger.setLevel(logging.INFO)
+        return logger
+
+    for handler in logging.root.handlers[:]:
+        logging.root.removeHandler(handler)

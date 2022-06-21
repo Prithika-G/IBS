@@ -1,0 +1,129 @@
+06/20/22 05:41:28 pm:INFO:====== WebDriver manager ======
+06/20/22 05:41:28 pm:INFO:Current google-chrome version is 102.0.5005
+06/20/22 05:41:28 pm:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/20/22 05:41:29 pm:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/20/22 05:41:30 pm:INFO:************ Launch the Browser **************
+06/20/22 05:41:39 pm:INFO:*************Home Page Title verification is passed *************
+06/20/22 05:41:39 pm:INFO:====== WebDriver manager ======
+06/20/22 05:41:39 pm:INFO:Current google-chrome version is 102.0.5005
+06/20/22 05:41:39 pm:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/20/22 05:41:40 pm:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/20/22 05:41:40 pm:INFO:************ Launch the Browser **************
+06/20/22 05:41:47 pm:INFO:******* Enter the Username *******Infoquick
+06/20/22 05:41:57 pm:INFO:******* Enter the Password *******Infoquick@123
+06/20/22 05:42:05 pm:INFO:******* Click the Captcha checkbox *******
+06/20/22 05:42:07 pm:INFO:********** Click on Login button **************
+06/20/22 05:42:17 pm:INFO:*************** Login Page Title verification ******************** 
+06/20/22 05:47:48 pm:INFO:====== WebDriver manager ======
+06/20/22 05:47:48 pm:INFO:Current google-chrome version is 102.0.5005
+06/20/22 05:47:48 pm:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/20/22 05:47:48 pm:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/20/22 05:47:49 pm:INFO:************ Launch the Browser **************
+06/20/22 05:47:59 pm:INFO:*************Home Page Title verification is passed *************
+06/20/22 05:47:59 pm:INFO:====== WebDriver manager ======
+06/20/22 05:47:59 pm:INFO:Current google-chrome version is 102.0.5005
+06/20/22 05:47:59 pm:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/20/22 05:47:59 pm:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/20/22 05:48:00 pm:INFO:************ Launch the Browser **************
+06/20/22 05:48:07 pm:INFO:******* Enter the Username *******Infoquick
+06/20/22 05:48:17 pm:INFO:******* Enter the Password *******Infoquick@123
+06/20/22 05:48:25 pm:INFO:******* Click the Captcha checkbox *******
+06/20/22 05:48:27 pm:INFO:********** Click on Login button **************
+06/20/22 05:48:37 pm:INFO:*************** Login Page Title verification ******************** 
+06/20/22 06:12:11 pm:INFO:====== WebDriver manager ======
+06/20/22 06:12:11 pm:INFO:Current google-chrome version is 102.0.5005
+06/20/22 06:12:11 pm:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/20/22 06:12:11 pm:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/20/22 06:12:12 pm:INFO:************ Launch the Browser **************
+06/20/22 06:12:23 pm:INFO:*************Home Page Title verification is passed *************
+06/20/22 06:12:23 pm:INFO:====== WebDriver manager ======
+06/20/22 06:12:23 pm:INFO:Current google-chrome version is 102.0.5005
+06/20/22 06:12:23 pm:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/20/22 06:12:23 pm:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/20/22 06:12:24 pm:INFO:************ Launch the Browser **************
+06/20/22 06:12:31 pm:INFO:******* Enter the Username *******Infoquick
+06/20/22 06:12:41 pm:INFO:******* Enter the Password *******Infoquick@123
+06/20/22 06:12:49 pm:INFO:******* Click the Captcha checkbox *******
+06/20/22 06:12:51 pm:INFO:********** Click on Login button **************
+06/20/22 06:13:01 pm:INFO:*************** Login Page Title verification ******************** 
+06/21/22 09:59:10 am:INFO:====== WebDriver manager ======
+06/21/22 09:59:10 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 09:59:10 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 09:59:10 am:INFO:About to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_linux64.zip
+06/21/22 09:59:11 am:INFO:Driver has been saved in cache [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61]
+06/21/22 09:59:12 am:INFO:************ Launch the Browser **************
+06/21/22 09:59:21 am:INFO:*************Home Page Title verification is passed *************
+06/21/22 09:59:21 am:INFO:====== WebDriver manager ======
+06/21/22 09:59:21 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 09:59:21 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 09:59:22 am:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/21/22 09:59:22 am:INFO:************ Launch the Browser **************
+06/21/22 09:59:29 am:INFO:******* Enter the Username *******Infoquick
+06/21/22 09:59:39 am:INFO:******* Enter the Password *******Infoquick@123
+06/21/22 09:59:48 am:INFO:******* Click the Captcha checkbox *******
+06/21/22 09:59:50 am:INFO:********** Click on Login button **************
+06/21/22 10:00:00 am:INFO:*************** Login Page Title verification ******************** 
+06/21/22 10:15:37 am:INFO:====== WebDriver manager ======
+06/21/22 10:15:37 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 10:15:37 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 10:15:38 am:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/21/22 10:15:38 am:INFO:************ Launch the Browser **************
+06/21/22 10:15:48 am:INFO:*************Home Page Title verification is passed *************
+06/21/22 10:15:48 am:INFO:====== WebDriver manager ======
+06/21/22 10:15:48 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 10:15:48 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 10:15:48 am:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/21/22 10:15:49 am:INFO:************ Launch the Browser **************
+06/21/22 10:15:55 am:INFO:******* Enter the Username *******Infoquick
+06/21/22 10:16:05 am:INFO:******* Enter the Password *******Infoquick@123
+06/21/22 10:16:14 am:INFO:******* Click the Captcha checkbox *******
+06/21/22 10:16:16 am:INFO:********** Click on Login button **************
+06/21/22 10:16:26 am:INFO:*************** Login Page Title verification ******************** 
+06/21/22 10:19:00 am:INFO:====== WebDriver manager ======
+06/21/22 10:19:00 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 10:19:00 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 10:19:00 am:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/21/22 10:19:01 am:INFO:************ Launch the Browser **************
+06/21/22 10:19:11 am:INFO:*************Home Page Title verification is passed *************
+06/21/22 10:19:11 am:INFO:====== WebDriver manager ======
+06/21/22 10:19:11 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 10:19:11 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 10:19:11 am:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/21/22 10:19:12 am:INFO:************ Launch the Browser **************
+06/21/22 10:19:18 am:INFO:******* Enter the Username *******Infoquick
+06/21/22 10:19:28 am:INFO:******* Enter the Password *******Infoquick@123
+06/21/22 10:19:37 am:INFO:******* Click the Captcha checkbox *******
+06/21/22 10:19:39 am:INFO:********** Click on Login button **************
+06/21/22 10:19:49 am:INFO:************** Login Page URL Title verification Passed***************
+06/21/22 10:20:13 am:INFO:====== WebDriver manager ======
+06/21/22 10:20:13 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 10:20:13 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 10:20:13 am:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/21/22 10:20:14 am:INFO:************ Launch the Browser **************
+06/21/22 10:20:23 am:INFO:*************Home Page Title verification is passed *************
+06/21/22 10:20:23 am:INFO:====== WebDriver manager ======
+06/21/22 10:20:23 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 10:20:23 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 10:20:23 am:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/21/22 10:20:24 am:INFO:************ Launch the Browser **************
+06/21/22 10:20:30 am:INFO:******* Enter the Username *******Infoquick
+06/21/22 10:20:41 am:INFO:******* Enter the Password *******Infoquick@123
+06/21/22 10:20:49 am:INFO:******* Click the Captcha checkbox *******
+06/21/22 10:20:51 am:INFO:********** Click on Login button **************
+06/21/22 10:21:01 am:INFO:************** Login Page URL Title verification Passed***************
+06/21/22 10:25:24 am:INFO:====== WebDriver manager ======
+06/21/22 10:25:24 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 10:25:24 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 10:25:24 am:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/21/22 10:25:25 am:INFO:************ Launch the Browser **************
+06/21/22 10:25:35 am:INFO:*************Home Page Title verification is passed *************
+06/21/22 10:25:35 am:INFO:====== WebDriver manager ======
+06/21/22 10:25:35 am:INFO:Current google-chrome version is 102.0.5005
+06/21/22 10:25:35 am:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+06/21/22 10:25:35 am:INFO:Driver [/home/ticvictech/.wdm/drivers/chromedriver/linux64/102.0.5005.61/chromedriver] found in cache
+06/21/22 10:25:36 am:INFO:************ Launch the Browser **************
+06/21/22 10:25:43 am:INFO:******* Enter the Username *******Infoquick
+06/21/22 10:25:53 am:INFO:******* Enter the Password *******Infoquick@123
+06/21/22 10:26:01 am:INFO:******* Click the Captcha checkbox *******
+06/21/22 10:26:03 am:INFO:********** Click on Login button **************
+06/21/22 10:26:13 am:INFO:************** Login Page URL Title verification Passed***************
